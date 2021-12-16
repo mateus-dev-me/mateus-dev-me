@@ -1,4 +1,4 @@
-## Olá! Eu sou Mateus Sousa,desenvolvedor frontend e criador de conteúdo de tecnologia!
+## Olá! Eu sou Mateus Sousa, Desenvolvedor Frontend </>
 <div align="center">
   <a href="https://github.com/Mateus-Sousa23">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateus-Sousa23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
