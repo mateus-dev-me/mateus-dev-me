@@ -1,5 +1,5 @@
 ## 😃 Olá! Tudo bem com você??? Seja bem vindo ao meu github!!!
-## Eu sou Mateus Sousa Desenvolvedor Frontend 💻
+## Eu sou Mateus Sousa, Desenvolvedor Frontend 💻
 
 
 <div align="center">
