@@ -1,16 +1,16 @@
  <h2 align="center"> Fala Dev! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"><br> Seja bem vindo ao meu github! </p>
 
 <div>
- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Mateus-Sousa23&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Sousa23&layout=compact&langs_count=7&theme=aura"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mateus-Sousa23&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Sousa23&layout=compact&langs_count=7&theme=aura"/>
 </div>
 
 ### 🧠 hardskills
 ___
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Mat-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mat-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Mat-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Mat-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mat-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Mat-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mat-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
