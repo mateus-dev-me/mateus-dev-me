@@ -1,8 +1,8 @@
-<h2 align="center"> Fala Dev!<br> Seja bem vindo ao meu github! </p>
+<h2 align="center"> Fala Dev!<br> Seja bem vindo ao meu github! </h2>
 
 <div align="center">
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mateus-Sousa23&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Sousa23&layout=compact&langs_count=7&theme=aura"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateus-Sousa23&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Sousa23&layout=compact&langs_count=7&theme=aura"/>
 </div>
 
 ### 🧠 hardskills
