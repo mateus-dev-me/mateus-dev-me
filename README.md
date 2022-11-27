@@ -1,4 +1,4 @@
-<h2 align="center"> Fala Dev!<br> Seja bem vindo ao meu github! </h2>
+<h2 align="center"> Hello Dev, Welcome to my github! </h2>
 
 <div align="center">
  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mateus-dev-me&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
