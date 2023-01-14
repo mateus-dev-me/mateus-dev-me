@@ -1,4 +1,5 @@
-<h2 align="center"> Hello Dev, Welcome to my github! </h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C6A76F&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Mateus+Sousa+Martins;I'm+21+years+old;I+am+from+Juazeiro,+CE;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 
 <div align="center">
   <a href="https://github.com/mateus-dev-me">
@@ -7,7 +8,6 @@
 </div>
 
 ### 🧠 hardskills
-___
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Mat-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -28,7 +28,6 @@ ___
 <div/>
  
  ### 📫  contact me
- ___
   
 <div> 
   <a href="https://www.instagram.com/invites/contact/?i=17vfjcguph2ov&utm_content=n1508a" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
