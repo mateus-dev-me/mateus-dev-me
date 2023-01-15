@@ -1,11 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C6A76F&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Mateus+Sousa+Martins;I'm+21+years+old;I+am+from+Juazeiro,+CE;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9d1d9F&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Mateus+Sousa+Martins;I'm+21+years+old;I+am+from+Juazeiro,+CE;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-<div align="center">
-  <a href="https://github.com/mateus-dev-me">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateus-dev-me&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-dev-me&layout=compact&langs_count=7&theme=onedark"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mateus-dev-me&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Mateus Martins github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-dev-me&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
+
 
 ### 🧠 hardskills
   
