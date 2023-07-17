@@ -13,18 +13,20 @@
   <img align="center" alt="Mat-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mat-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Mat-Js" height="40" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Mat-React" height="40" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <img align="center" alt="Mat-React" height="40" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
  <img align="center" alt="Mat-tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
  <img align="center" alt="Mat-Js" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ <img  align="center" alt="Mat-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />         
   <img align="center" alt="Mat-Python" height="40" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="Mat-Python" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
  <img align="center" alt="Mat-Python" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg" />
+ <img align="center" alt="Mat-Python" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
  <img align="center" alt="Mat-Docker" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Mat-Docker" height="40" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+ <img align="center" alt="Mat-Vim" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
  <img align="center" alt="Mat-Linux" height="40" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
  <img align="center" alt="Mat-Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
  <img align="center" alt="Mat-Vim" height="40" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
- <img align="center" alt="Mat-Vim" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
 <div/>
  
  ### 📫  contact me
