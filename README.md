@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,vim,python,go,linux,docker" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,vue,python,django,go,linux,docker" />
   </a>
 </p>
 
@@ -24,8 +24,7 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Lua](https://img.shields.io/badge/-Lua-CC4A28?style=flat&logo=data:image/png;base64,iVBORw0KG)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat)
+![Lua](https://img.shields.io/badge/-lua-%238511FA?style=flat&logo=lua&logoColor=white)
 
 
 
@@ -56,15 +55,11 @@
 
  
  ### 📫  contact me
-  
+
 <div> 
-  <a href="https://www.instagram.com/invites/contact/?i=17vfjcguph2ov&utm_content=n1508a" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://api.whatsapp.com/send?phone=558896743711" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%64381?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
- <a href="https://www.linkedin.com/in/mateus-dev-me" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/2TVdwAGk" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:mateusmartinsipu2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
- 
- 
-  ![Snake animation](https://github.com/Mateus-Sousa23/Mateus-Sousa23/blob/output/github-contribution-grid-snake.svg)
- 
+   <a href="https://api.whatsapp.com/send?phone=558896743711" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%64381?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/mateus-dev-me" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://discord.gg/2TVdwAGk" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
+
+  ![Snake animation](https://github.com/Mateus-Sousa23/Mateus-Sousa23/blob/output/github-contribution-grid-snake.svg)
