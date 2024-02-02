@@ -6,30 +6,54 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-dev-me&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
+### Main Stack
 
-### 🧠 hardskills
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Mat-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mat-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Mat-Js" height="40" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Mat-React" height="40" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
- <img align="center" alt="Mat-tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
- <img align="center" alt="Mat-Js" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- <img  align="center" alt="Mat-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />         
- <img align="center" alt="Mat-Python" height="40" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="Mat-Python" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
- <img align="center" alt="Mat-Python" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg" />
- <img align="center" alt="Mat-Python" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
- <img align="center" alt="Mat-Docker" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg" />
- <img align="center" alt="Mat-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
- <img align="center" alt="Mat-Docker" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
- <img align="center" alt="Mat-Docker" height="40" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
- <img align="center" alt="Mat-Vim" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
- <img align="center" alt="Mat-Linux" height="40" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
- <img align="center" alt="Mat-Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
- <img align="center" alt="Mat-Vim" height="40" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-<div/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,vim,python,go,linux,docker" />
+  </a>
+</p>
+
+
+**Programming languages**
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Lua](https://img.shields.io/badge/-Lua-CC4A28?style=flat&logo=data:image/png;base64,iVBORw0KG)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat)
+
+
+
+**Frameworks, Platforms and Libraries**
+
+![Poetry](https://img.shields.io/badge/poetry-%231572B6.svg?style=flat&logo=poetry&logoColor=white)
+![Django](https://img.shields.io/badge/django-018E42.svg?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-3BA99C.svg?style=flat&logo=fastapi&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![Font Awesome Badge](https://img.shields.io/badge/Font%20Awesome-528DD7?logo=fontawesome&logoColor=fff&style=flat)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
+![Arch](https://img.shields.io/badge/archlinux-0A369D.svg?style=flat&logo=archlinux&logoColor=white)
+
+**Technologies and Tools**
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![Noevim](https://img.shields.io/badge/noevim-018E42?style=flat&logo=neovim&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/insomnia-%238511FA?style=flat&logo=insomnia&logoColor=white)
+
  
  ### 📫  contact me
   
