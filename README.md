@@ -56,9 +56,9 @@
  
  ### 📫  contact me
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mateus-dev-me/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mateus-dev-me.com.br/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-dev-me)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mateus_dev_me)
 
 
-  ![Snake animation](https://github.com/Mateus-Sousa23/Mateus-Sousa23/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/mateus-dev-me/mateus-dev-me/blob/output/github-contribution-grid-snake.svg)
