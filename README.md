@@ -56,10 +56,9 @@
  
  ### 📫  contact me
 
-<div> 
-   <a href="https://api.whatsapp.com/send?phone=558896743711" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%64381?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-   <a href="https://www.linkedin.com/in/mateus-dev-me" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://discord.gg/2TVdwAGk" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-</div>
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mateus-dev-me/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-dev-me)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mateus_dev_me)
+
 
   ![Snake animation](https://github.com/Mateus-Sousa23/Mateus-Sousa23/blob/output/github-contribution-grid-snake.svg)
