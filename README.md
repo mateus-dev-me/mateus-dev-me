@@ -1,7 +1,7 @@
 # ⚙️ **Main Stack**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,python,django,fastapi,docker,linux,git,aws" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,python,fastapi,go,docker,linux,bash,ansible,git,aws" />
 </p>
 
 # 🧩 **Skills & Technologies**
